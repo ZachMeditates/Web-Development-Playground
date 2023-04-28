@@ -1,2 +1,2 @@
-Playing with CSS
+Personal Site Project
 https://www.udemy.com/course/the-complete-web-development-bootcamp
